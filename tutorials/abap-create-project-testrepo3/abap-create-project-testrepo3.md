@@ -2,7 +2,7 @@
 title: From testrepo3_delete
 description: Configure the Eclipse IDE with the ABAP Development Tools for SAP NetWeaver (ADT) and create an ABAP project.
 auto_validation: true
-primary_tag: topic>abap-development
+primary_tag: topic>sql
 tags: [  tutorial>beginner, software-product>sap-netweaver ]
 time: 15
 
